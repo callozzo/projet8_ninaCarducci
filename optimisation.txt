@@ -1,0 +1,2 @@
+optimiser le poids des images
+ajouter un point de contact ( numero de telephone, adresse, disponibilité )
