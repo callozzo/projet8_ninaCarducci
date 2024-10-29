@@ -100,9 +100,9 @@ body {
 .gallery .nav {
 	justify-content: center;
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link, .nav-pills .nav-link {
+.nav-link.active, .nav-pills .show > .nav-link, .nav-pills .nav-link {
 	color: #000;
-	background-color: #BEB45A;
+	background-color: white;
 	border-radius:0 ;
 }
 .item-column {
